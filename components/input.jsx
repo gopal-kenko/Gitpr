@@ -1,5 +1,5 @@
 import React from 'react'
 
 export const input = () => {
-  return <div>input</div>
+  return <div>sample input</div>
 }
